@@ -3,4 +3,4 @@ init:
 	pipenv install --dev
 
 test:
-	pipenv run pytest damingwangchao/tests
+	pipenv run pytest damingwangchao
